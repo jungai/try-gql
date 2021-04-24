@@ -9,7 +9,8 @@
     "lint": "eslint --ext .ts ./src --fix"
   },
   "dependencies": {
-    "@workspace/core_app": "0.1.0"
+    "@workspace/core_app": "0.1.0",
+    "dotenv": "^8.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.13.16",
